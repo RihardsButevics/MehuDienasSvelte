@@ -9,6 +9,6 @@
 <NavBar />
 
 
-<Jaunumi containerId="container"/>
+<Jaunumi />
 
 <Footer />
