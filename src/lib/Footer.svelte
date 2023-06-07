@@ -1,4 +1,7 @@
-<footer class="footer p-10 bg-neutral text-neutral-content">
+<footer class="footer p-10 bg-neutral text-neutral-content ">
+	<div>
+		
+	</div>
 	<div>
 		<img src="/img/MehuLogo.png" class="w-20 h-20" alt="" />
 		<p>
@@ -8,7 +11,7 @@
 	</div>
 	<div>
 		<span class="footer-title">Social</span>
-		<div class="grid grid-flow-col gap-4">
+		<div class="grid grid-flow-col gap-4 ">
 			<a href="https://www.facebook.com/"
 				><svg
 					xmlns="http://www.w3.org/2000/svg"
